@@ -7,6 +7,9 @@
     "url": "???"
   },
   "license": "MIT",
+  "scripts": {
+    "au-build": "au build --env dev"
+  },
   "dependencies": {
     "aurelia-animator-css": "^1.0.0",
     "aurelia-bootstrapper": "^1.0.0",
